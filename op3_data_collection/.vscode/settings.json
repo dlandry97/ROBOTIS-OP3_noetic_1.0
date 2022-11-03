@@ -1,0 +1,17 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/robotis_controller_msgs/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/op3_walking_module_msgs/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/op3_tuning_module_msgs/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/op3_online_walking_module_msgs/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/op3_offset_tuner_msgs/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/op3_camera_setting_tool/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/op3_ball_detector/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/op3_action_module_msgs/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/humanoid_nav_msgs/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/face_detection/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/dynamixel_sdk_examples/lib/python3/dist-packages",
+        "/home/dlandry/classes/projects/op3/noetic_ws/devel_isolated/dynamixel_sdk/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
